@@ -1,0 +1,19 @@
+body{
+
+  margin: 0;
+
+}
+
+.p-container{
+  background-color: lightblue;
+  height: 400px;
+  margin: 10px;
+
+}
+.sbox{
+  background-color: lightpink;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px; 
+  border-radius: 10px;
+}
